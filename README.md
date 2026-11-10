@@ -4,7 +4,7 @@ Three exercises that follow on from Tier 1: honest model evaluation, neural netw
 
 ## How this was made
 
-I asked Claude to write a problem statement and a dataset for each exercise. I typed out the solutions myself, and used Claude to understand the concepts and clear up my doubts along the way.
+I asked Claude to write a problem statement and a dataset for each exercise. I then typed out the solutions, and used Claude to understand the concepts and clear up my doubts along the way.
 
 ## Exercises
 
