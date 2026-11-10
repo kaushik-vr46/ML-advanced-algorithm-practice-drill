@@ -1,6 +1,6 @@
 # ML Practice: Tier 2 (evaluation, neural networks and attention)
 
-Three exercises that follow on from Tier 1: honest model evaluation, neural networks in PyTorch, and sequence models from RNNs to attention.
+Three exercises that follow on from Tier 1: honest model evaluation, neural networks in PyTorch, and sequence models from RNNs to attention built parallel when I was learning the core Deep Learning algorithms, their working theory and strategies from the infamous Deep Learning Specialization by Andrew NG
 
 ## How this was made
 
